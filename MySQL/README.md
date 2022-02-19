@@ -1,4 +1,4 @@
- ## MySQL Table structure 
+## MySQL Table structure 
  
  Field	|	Type	|	Null	|	Key	|	Default	|	Extra	
 :----:|:----:|:----:|:----:|:----:|:----:
